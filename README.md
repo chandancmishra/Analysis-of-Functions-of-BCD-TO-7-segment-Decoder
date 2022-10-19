@@ -42,4 +42,4 @@ SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department
 1 | **Ramesh Ghosh** |Integration Engineer | senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 2 | **Sukriti Dhang** | Developer Engineer | Senior project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
 3 | **Prakriti Dhang** |Developer Engineer  | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
-4 | **chandan Mishra** |Developer Engineer  | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
+4 | **Chandan Mishra** |Developer Engineer  | Senior Project assistant | Department of Mechanical Engineering | IIT Kharagpur | 
