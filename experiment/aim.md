@@ -1,3 +1,4 @@
-### Aim of the experiment
-### About the Experiment
-### This experiment enables a student to learn How to display decimal numbers 0-9 on a 7-segment LED display How to display a blank (making all the segments off) How to test the inputs LT (lamp test), ripple blanking input (RBI) and blanking input / ripple blanking output (BI/RBO) of TTL 7447 BCD-to-7-segment decoder How to blank out the leading 0s in a multiple digit display
+
+### Aim of the Experiment
+
+#### The principal objective of this experiment is to fully understand the functions of a BCD-to-7-segment decoder (IC 7447) and use it to control the operations of a common-anode 7-segment LED display.
