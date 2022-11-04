@@ -7,7 +7,8 @@
 - How to display a blank (making all the segments off)
 - How to test the inputs LT (lamp test), ripple blanking input (RBI) and blanking input / ripple blanking output (BI/RBO) of TTL 7447 BCD-to-7-segment decoder
 - How to blank out the leading 0s in a multiple digit display
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+           <!--<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>-->
+
 ### Theory
 
 #### The result of a processing unit needs to be conveniently displayed to a user for its proper interpretation. The seven-segment LED display is a very common output device used to display decimal numbers. The seven segments of the display are labeled as a to g as shown in Figure 1(a). Displays representing decimal numbers from 0 to 9 are depicted in Figure 1(b). For example, segments a, b, d, e, and g should be lit up to display decimal Of the several common seven-segment display packages available, generally the common-anode type display is predominantly used in engineering institutions. A typical 10-pin LED common-anode display package, its pin diagram and internal connections are shown in Figure
